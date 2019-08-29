@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class Constant {
-        public static final String trainFolder = "datas/digital_recognizer_train" ;
+        public static final String trainFolder = "datas/digital_recognizer_train";
         public static int digit = -1;
         public static int smallWidth = 28;
         public static int smallHeight = 28;
